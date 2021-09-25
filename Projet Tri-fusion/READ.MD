@@ -1,6 +1,6 @@
 Hello, 
 
-Please execute the code entitled "Final_Code.py".
+Please execute the code entitled "Final_Code.py", located in the "Final Code" file. 
 
 To use it, please remember to enter your numbers followed by a comma.
 
