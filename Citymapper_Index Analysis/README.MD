@@ -12,8 +12,8 @@ During the COVID-19 situation, Citymapper created the **Citymapper mobility Inde
 
 A typical usage period is defined as the usage of the application from ***January 6th to February 2nd 2020***. 
 Nevertheless, for some cities there were other specifics usage period defined: 
-Paris: February 3rd to March 1st
-Hong Kong and Singapore: Dec 2nd to 22nd. 
+- Paris: February 3rd to March 1st
+- Hong Kong and Singapore: Dec 2nd to 22nd. 
 
 The index is calculated per day, meaning the time going from Midnight to Midnight UTC. 
 For some cities (like Melbourne) the calendar day may not correspond. 
