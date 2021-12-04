@@ -1,4 +1,4 @@
-![This is an image](https://www.numerama.com/wp-content/uploads/2021/11/01-citymapper-app2.png)
+![This is an image](https://cm-messenger-blog-assets.s3.eu-west-1.amazonaws.com/53fda7d4-279c-4ebe-89ce-00216aad001b)
 
 
 # Citymapper Mobility Index Analysis
