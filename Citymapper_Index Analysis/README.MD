@@ -2,7 +2,7 @@
 
 
 # Citymapper Mobility Index Analysis
-This analysis aims to compared the
+This analysis aims analysis the impact of the lockdown measures in the Cities on the Citymapper Mobility Index. 
 
 ## Background Information
 
