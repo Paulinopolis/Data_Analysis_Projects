@@ -59,4 +59,5 @@ We consider that this analysis could be completed with the following points:
     - The percentage of the cities covered by the public transport. 
     - The predominant economic sector by city. 
 
-**TRELLO Citymapper Mobility Index Analysis: ** https://trello.com/b/0IaWP3J8/data-viz-project
+## Trello Dashboard
+- TRELLO Citymapper Mobility Index Analysis: https://trello.com/b/0IaWP3J8/data-viz-project
